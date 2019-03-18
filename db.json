@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123123",
+      "role": "admin",
+      "cart": [],
+      "history": []
+    },
+    {
+      "id": 2,
+      "username": "aliph",
+      "password": "cerberus12",
+      "role": "user",
+      "cart": [],
+      "history": []
+    },
+    {
+      "username": "rengginangbasah@gmail.com",
+      "role": "user",
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "nama": "Shadow Warrior 2",
+      "harga": "270000",
+      "discount": 75,
+      "category": "Action Games",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/324800/header.jpg?t=1530549212",
+      "deskripsi": "Shadow Warrior 2 is the stunning evolution of Flying Wild Hog’s offbeat first-person shooter starring the brash warrior Lo Wang, who must again wield a devastating combination of guns, blades, magic and wit to strike down the demonic legions overwhelming the world.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nama": "Sekiro™: Shadows Die Twice",
+      "harga": "729000",
+      "discount": 0,
+      "category": "Action Games",
+      "deskripsi": "Carve your own clever path to vengeance in an all-new adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore your honor. Kill Ingeniously.",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/814380/header.jpg?t=1552362715"
+    },
+    {
+      "id": 3,
+      "nama": "Outlaws of the Old West",
+      "harga": "109000",
+      "discount": 25,
+      "category": "Massively Multiplayer Games",
+      "deskripsi": "Outlaws of the Old West is a massively multiplayer survival MMO with a huge world, thousands of items and a modular building system. Survive the wild, build your own homestead, defeat villainous bandits and work with others to tame the Wild West.",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/840800/header.jpg?t=1552409137"
+    },
+    {
+      "nama": "Tom Clancy's Rainbow Six® Siege",
+      "harga": "345000",
+      "discount": 0,
+      "category": " Action Games",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/982730/header.jpg?t=1545324348",
+      "deskripsi": "Tom Clancy's Rainbow Six Siege is the latest installment of the acclaimed first-person shooter franchise developed by the renowned Ubisoft Montreal studio.",
+      "id": 4
+    },
+    {
+      "nama": "MONSTER HUNTER: WORLD",
+      "harga": "500000",
+      "discount": 0,
+      "category": "Action Games",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/582010/header.jpg?t=1550022250",
+      "deskripsi": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
+      "id": 5
+    },
+    {
+      "nama": "Kenshi",
+      "harga": "140000",
+      "discount": 0,
+      "category": "Action Games",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/233860/header.jpg?t=1547122387",
+      "deskripsi": "A free-roaming squad based RPG. Focusing on open-ended sandbox gameplay features rather than a linear story. Be a trader, a thief, a rebel, a warlord, an adventurer, a farmer, a slave, or just food for the cannibals. Research new equipment and craft new gear.",
+      "id": 6
+    },
+    {
+      "nama": "Grand Theft Auto V",
+      "harga": "290000",
+      "discount": 0,
+      "category": "Action Games",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/271590/header.jpg?t=1544815097",
+      "deskripsi": "Los Santos is a city of bright lights, long nights and dirty secrets, and they don’t come brighter, longer or dirtier than in GTA Online: After Hours. The party starts now.",
+      "id": 7
+    },
+    {
+      "nama": "Sword Art Online: Fatal Bullet",
+      "harga": "310000",
+      "discount": 50,
+      "category": "Action Games",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/626690/header.jpg?t=1547787378",
+      "deskripsi": "Experience an original story where you are the protagonist in the world of Gun Gale Online. Create your own avatar and explore devastated lands while experiencing exciting third person shooting in this action RPG.",
+      "id": 8
+    },
+    {
+      "nama": "Devil May Cry 5",
+      "harga": "500000",
+      "discount": 0,
+      "category": "Action Games",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/601150/header.jpg?t=1552529310",
+      "deskripsi": "The ultimate Devil Hunter is back in style, in the game action fans have been waiting for.",
+      "id": 9
+    },
+    {
+      "nama": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+      "harga": "219000",
+      "discount": 0,
+      "category": "Action Games",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1545084399",
+      "deskripsi": "PLAYERUNKNOWN'S BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing.",
+      "id": 10
+    },
+    {
+      "nama": "Two Point Hospital",
+      "harga": "360000",
+      "discount": 33,
+      "category": "Simulation Games",
+      "img": "https://steamcdn-a.akamaihd.net/steam/apps/535930/header.jpg?t=1552648284",
+      "deskripsi": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
+      "id": 10
+    }
+  ],
+  "cart": []
+}
